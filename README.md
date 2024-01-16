@@ -33,3 +33,6 @@ You can also join our [Discord server](https://discord.gg/desmos) for more suppo
 ## Contributors
 
 [![Contrib](https://contrib.rocks/image?repo=art-class/v4#)](https://github.com/art-class/v4/graphs/contributors)
+
+credits to the original dev i have modded the page only
+before deletion or anything please inform me within 7 days and dm me on discord (agvjc3rozwnvb2xndxlsbwfvcg)
